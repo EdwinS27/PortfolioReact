@@ -1,5 +1,11 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/example/public_html/
-    - /bin/cp -R images $DEPLOYPATH
+    - export DEPLOYPATH=/home/edwins27/public_html/
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R build $DEPLOYPATH
+    - /bin/cp -R nc_assets $DEPLOYPATH
+    - /bin/cp -R public $DEPLOYPATH
+    - /bin/cp -R src $DEPLOYPATH
+    - /bin/cp -R static $DEPLOYPATH
+    - /bin/cp -R tmp $DEPLOYPATH
