@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dddc00f0.chunk.css",
+    "main.js": "/static/js/main.0d1d8ce6.chunk.js",
+    "main.js.map": "/static/js/main.0d1d8ce6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a8dcb0e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a8dcb0e1.js.map",
+    "static/js/2.d30349c7.chunk.js": "/static/js/2.d30349c7.chunk.js",
+    "static/js/2.d30349c7.chunk.js.map": "/static/js/2.d30349c7.chunk.js.map",
+    "static/js/3.8ea8966a.chunk.js": "/static/js/3.8ea8966a.chunk.js",
+    "static/js/3.8ea8966a.chunk.js.map": "/static/js/3.8ea8966a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dddc00f0.chunk.css.map": "/static/css/main.dddc00f0.chunk.css.map",
+    "static/js/2.d30349c7.chunk.js.LICENSE.txt": "/static/js/2.d30349c7.chunk.js.LICENSE.txt",
+    "static/media/Phobias.bc6d4e25.PNG": "/static/media/Phobias.bc6d4e25.PNG",
+    "static/media/currentProgress.2e5977f1.PNG": "/static/media/currentProgress.2e5977f1.PNG",
+    "static/media/driveCar.402d0e48.jpg": "/static/media/driveCar.402d0e48.jpg",
+    "static/media/myLogo.c38b59ae.jpg": "/static/media/myLogo.c38b59ae.jpg",
+    "static/media/pong.c537214c.png": "/static/media/pong.c537214c.png",
+    "static/media/starwars.85bb9337.png": "/static/media/starwars.85bb9337.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8dcb0e1.js",
+    "static/js/2.d30349c7.chunk.js",
+    "static/css/main.dddc00f0.chunk.css",
+    "static/js/main.0d1d8ce6.chunk.js"
+  ]
+}
