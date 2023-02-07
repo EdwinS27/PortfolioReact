@@ -9,3 +9,5 @@ deployment:
     - /bin/cp -R src $DEPLOYPATH
     - /bin/cp -R static $DEPLOYPATH
     - /bin/cp -R tmp $DEPLOYPATH
+    - /bin/cp app.js $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
