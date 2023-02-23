@@ -44,7 +44,7 @@ function NavBar() {
                                 Resume
                             </Link>
                         </li>
-                        <li className="nav-item" role="presentation">
+                        {/* <li className="nav-item" role="presentation">
                             <Link className="nav-link active is-active" to="contact">
                                 Contact
                             </Link>
@@ -53,7 +53,7 @@ function NavBar() {
                             <Link className="nav-link active is-active">
                                 Color
                             </Link>
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
                 </Collapse>
