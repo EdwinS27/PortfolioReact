@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abd64e84.css",
+    "main.js": "/static/js/main.2cdb3a89.js",
+    "static/js/787.4048b011.chunk.js": "/static/js/787.4048b011.chunk.js",
+    "static/media/Phobias.PNG": "/static/media/Phobias.bc6d4e25e217ef0ba63a.PNG",
+    "static/media/driveCar.jpg": "/static/media/driveCar.402d0e48397b1cd19546.jpg",
+    "static/media/starwars.png": "/static/media/starwars.85bb9337d64312f4eb62.png",
+    "static/media/pong.png": "/static/media/pong.c537214cbb304fca4929.png",
+    "static/media/myLogo.jpg": "/static/media/myLogo.c38b59ae37db043fadda.jpg",
+    "static/media/currentProgress.PNG": "/static/media/currentProgress.2e5977f16daa6567f9af.PNG",
+    "index.html": "/index.html",
+    "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
+    "main.2cdb3a89.js.map": "/static/js/main.2cdb3a89.js.map",
+    "787.4048b011.chunk.js.map": "/static/js/787.4048b011.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2cdb3a89.js"
+  ]
+}
