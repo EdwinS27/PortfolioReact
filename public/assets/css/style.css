@@ -112,3 +112,6 @@
   color: #fff;
 }
 
+#NavBarStyle {
+  z-index: 2;
+}

@@ -3,9 +3,9 @@ const RelExp = () => {
     return(
         <div className="work-experience group changeText">
             <div className="item">
-                <h2 className="text-center">Relevant Experience </h2>
+                <h2 className="text-center">Relevant Experience</h2>
                 <div className="row">
-                    <div className="">
+                    <div className="col">
                         <div>
                             <h4>
                                 CUNY Tech Prep (CTP)

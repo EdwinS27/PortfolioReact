@@ -1,16 +1,16 @@
 import React from "react";
 function Contact()  {
-    let shouldReveal = false;
-    // const checkIfCorrect = () =>    {
-    //     //
+    // let resetFields = () => {
+    //     let a = document.getElementById('form-name');
     // }
+    let shouldReveal = false;
     return(
         <div id="mainDiv">
             {/* <!-- Start: Contact Form Clean --> */}
             <div id="contact" className="contact-clean">
-                <form method="post">
+                <form id='contact-form-post' method="post">
                 <h2 className="text-center" >
-                    Contact us
+                    Leave a message
                 </h2>
                 {/* <!-- Start: Success Example --> */}
                 <div className="form-group">
@@ -19,7 +19,7 @@ function Contact()  {
                 {/* <!-- End: Success Example --> */}
                 {/* <!-- Start: Error Example --> */}
                 <div className="form-group">
-                    <input className="form-control is-invalid" type="email" name="email" placeholder="Email" />
+                    <input id='form-name' className="form-control" type="email" name="email" placeholder="Email" />
                     {
                         shouldReveal
                         &&
@@ -37,8 +37,8 @@ function Contact()  {
                 </div>
                 <div className="form-group">
                     <button className="btn btn-primary" type="submit">
-                    send 
-                </button>
+                        send 
+                    </button>
                 </div>
                 </form>
             </div>

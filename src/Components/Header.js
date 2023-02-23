@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 function Header(){
     return (
@@ -9,12 +10,11 @@ function Header(){
                 officialedwinsamaniego@gmail.com
                 {/* <a href='officialedwinsamaniego@gmail.com'>officialedwinsamaniego@gmail.com</a> */}
                 <br/>
-                <a href="linkedin.com/in/edwinsamaniego/">LinkedIn</a>
+                <Link to={"https://linkedin.com/in/edwinsamaniego/"}>LinkedIn</Link>
                 <br/>
                 (347) 977 - 3536
                 <br/>
-                <a href='https://github.com/EdwinS27'>GitHub</a>
-                
+                <Link to={"https://github.com/EdwinS27"}>GitHub</Link>                
             </div>
         </div>
     );

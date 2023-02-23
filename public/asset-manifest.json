@@ -12,12 +12,12 @@
     "index.html": "/index.html",
     "static/css/main.dddc00f0.chunk.css.map": "/static/css/main.dddc00f0.chunk.css.map",
     "static/js/2.d30349c7.chunk.js.LICENSE.txt": "/static/js/2.d30349c7.chunk.js.LICENSE.txt",
-    "static/media/Phobias.bc6d4e25.PNG": "/static/media/Phobias.bc6d4e25.PNG",
-    "static/media/currentProgress.2e5977f1.PNG": "/static/media/currentProgress.2e5977f1.PNG",
-    "static/media/driveCar.402d0e48.jpg": "/static/media/driveCar.402d0e48.jpg",
-    "static/media/myLogo.c38b59ae.jpg": "/static/media/myLogo.c38b59ae.jpg",
-    "static/media/pong.c537214c.png": "/static/media/pong.c537214c.png",
-    "static/media/starwars.85bb9337.png": "/static/media/starwars.85bb9337.png"
+    "static/media/Phobias.bc6d4e25.PNG": "/static/media/Phobias.PNG",
+    "static/media/currentProgress.2e5977f1.PNG": "/static/media/currentProgress.PNG",
+    "static/media/driveCar.402d0e48.jpg": "/static/media/driveCar.jpg",
+    "static/media/myLogo.c38b59ae.jpg": "/static/media/myLogo.jpg",
+    "static/media/pong.c537214c.png": "/static/media/pong.png",
+    "static/media/starwars.85bb9337.png": "/static/media/starwars.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a8dcb0e1.js",
