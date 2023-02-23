@@ -1,4 +1,5 @@
 import React from "react";
+import YoutubeEmbed from "./Video";
 
 class FeaturedProject extends React.Component {
     constructor(props) {
@@ -28,20 +29,8 @@ class FeaturedProject extends React.Component {
         <div
             className="col-lg"
             height = '100px'>
-            <div className="card border-0">
-                <a
-                target="_blank"
-                rel="noopener noreferrer"
-                href={this.props.demoLocation}>
-                    <img
-                        src={this.props.imSrcLocation}
-                        alt="Img of the project"
-                        width = '95%'
-                        height = '300px'
-                        onMouseOver={this.changeImageSize}
-                        onMouseLeave={this.resetImageSize}
-                    />
-                </a>
+            <div className="card border-0">                
+                <YoutubeEmbed embedId={this.props.embedId} />
                 <div className="card-body defaultText">
                     <h2 className="defaultText">
                         {this.props.projectTitle}

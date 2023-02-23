@@ -53,8 +53,7 @@ function HomePage() {
                     />
                 </div>
                     <FeaturedProject
-                      demoLocation={"https://openprocessing.org/sketch/775796"}
-                      imSrcLocation={starwars}
+                      embedId = {"tiOJsRY7074"}
                       projectTitle={"Star Wars"}
                       projectSubTitle={"Space Invaders Inspired"}
                       projectRole={"Role: Designer; Game Developer; Game Programmer"}
